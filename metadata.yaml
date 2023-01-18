@@ -1,0 +1,39 @@
+_repo: A-southern-cross-fairy-tale_69782
+_version: 0.0.1
+contributor:
+  annotators:
+  - agent_name: Reischek, A.
+    gutenberg_agent_id: '55421'
+    url: http://www.gutenberg.org/2009/agents/55421
+  - agent_name: Thomas, A. P. W.
+    gutenberg_agent_id: '55422'
+    url: http://www.gutenberg.org/2009/agents/55422
+  illustrators:
+  - agent_name: Atkinson, R.
+    gutenberg_agent_id: '55420'
+    url: http://www.gutenberg.org/2009/agents/55420
+  - &id001
+    agent_name: Clark, Kate McCosh
+    gutenberg_agent_id: '55419'
+    url: http://www.gutenberg.org/2009/agents/55419
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2023-01-13'
+identifiers:
+  gutenberg: '69782'
+language: en
+pgterms:marc905: 20050918202839clark
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: Jason Isbell, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was made using scans of public domain works
+  in the International Children's Digital Library.)
+publication_note: 'United Kingdom: Sampson Low, Marston, Searle & Rivington,1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A southern cross fairy tale
+url: http://www.gutenberg.org/ebooks/69782
