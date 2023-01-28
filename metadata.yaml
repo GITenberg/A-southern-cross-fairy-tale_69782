@@ -16,9 +16,14 @@ contributor:
     agent_name: Clark, Kate McCosh
     gutenberg_agent_id: '55419'
     url: http://www.gutenberg.org/2009/agents/55419
+covers:
+- cover_type: archival
+  image_path: 69782-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69782#A-southern-cross-fairy-tale
 gutenberg_issued: '2023-01-13'
 identifiers:
   gutenberg: '69782'
